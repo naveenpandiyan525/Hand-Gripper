@@ -16,4 +16,4 @@ The biggest lesson: in mechatronics, a mechanism that looks right isn’t enough
 
 Next: I want to add an actuator (a servo or stepper motor), connect it to a controller, and maybe 3D print the gripper to test it for real. 🚀
 
-You can find and download my Hand Gripper design drawing file(.PDF), design file(.DXF) and for 3D printing(.STL) file tool.I hope it may helpful.
+You can find and download my Hand Gripper design drawing file(.PDF), design files(.DXF) and for 3D printing(.STL) files too!.I hope it may helpful.
